@@ -1,73 +1,74 @@
-Ç×°®µÄ¸÷Î»ÅóÓÑ£¬Ê×ÏÈÀ´½²±¾ÈË(¹Ë·çQQ:878317623)µÄ°²×°Ö¸Áî½ö¹©Ñ§Ï°½»Á÷ÇëÎğÉÌÒµĞ»Ğ»£¡
+äº²çˆ±çš„å„ä½æœ‹å‹ï¼Œé¦–å…ˆæ¥è®²æœ¬äºº(é¡¾é£QQ:878317623)çš„å®‰è£…æŒ‡ä»¤ä»…ä¾›å­¦ä¹ äº¤æµè¯·å‹¿å•†ä¸šè°¢è°¢ï¼
 
 
-ÓÉÓÚÀÏµÄ°²×°Ö¸Áîµ½ÆÚ£¬±¾ÈË(¹Ë·çQQ:878317623)×îĞÂÑĞ¾¿µÄĞÂ°æÖ¸Áî£¬ÈçÏÂ!
-
-
-
-(¹Ë·çQQ:878317623)
-(¹Ë·çQQ:878317623)
-(¹Ë·çQQ:878317623)
-(¹Ë·çQQ:878317623)
-(¹Ë·çQQ:878317623)
-(¹Ë·çQQ:878317623)
-(¹Ë·çQQ:878317623)
-(¹Ë·çQQ:878317623)
+ç”±äºè€çš„å®‰è£…æŒ‡ä»¤åˆ°æœŸï¼Œæœ¬äºº(é¡¾é£QQ:878317623)æœ€æ–°ç ”ç©¶çš„æ–°ç‰ˆæŒ‡ä»¤ï¼Œå¦‚ä¸‹!
 
 
 
-±¦ËşLinuxÃæ°å7.6.0×¨Òµ°æÃüÁîÈçÏÂ
+(é¡¾é£QQ:878317623)
+(é¡¾é£QQ:878317623)
+(é¡¾é£QQ:878317623)
+(é¡¾é£QQ:878317623)
+(é¡¾é£QQ:878317623)
+(é¡¾é£QQ:878317623)
+(é¡¾é£QQ:878317623)
+(é¡¾é£QQ:878317623)
 
-Centos°²×°ÃüÁî£º
+
+
+å®å¡”Linuxé¢æ¿7.6.0ä¸“ä¸šç‰ˆå‘½ä»¤å¦‚ä¸‹
+
+Centoså®‰è£…å‘½ä»¤ï¼š
 yum install -y wget && wget -O install.sh https://a.axs8.cn/install1/install_6.0.sh && sh install.sh
 
 
-ÊÔÑéĞÔCentos/Ubuntu/Debian°²×°ÃüÁî ¶ÀÁ¢ÔËĞĞ»·¾³(py3.7) ¿ÉÄÜ´æÔÚÉÙÁ¿¼æÈİĞÔÎÊÌâ ²»¶ÏÓÅ»¯ÖĞ
+è¯•éªŒæ€§Centos/Ubuntu/Debianå®‰è£…å‘½ä»¤ ç‹¬ç«‹è¿è¡Œç¯å¢ƒ(py3.7) å¯èƒ½å­˜åœ¨å°‘é‡å…¼å®¹æ€§é—®é¢˜ ä¸æ–­ä¼˜åŒ–ä¸­
 
 curl -sSO https://a.axs8.cn/install1/install_panel.sh && bash install_panel.sh
 
 
 
-Ubuntu Deepin°²×°ÃüÁî£º
+Ubuntu Deepinå®‰è£…å‘½ä»¤ï¼š
 
 wget -O install.sh https://a.axs8.cn/install1/install-ubuntu_6.0.sh && sudo bash install.sh
 
-Debian°²×°ÃüÁî£º
+Debianå®‰è£…å‘½ä»¤ï¼š
 
 wget -O install.sh https://a.axs8.cn/install1/install-ubuntu_6.1.sh && bash install.sh
 
-Fedora°²×°ÃüÁî:
+Fedoraå®‰è£…å‘½ä»¤:
 
 wget -O install.sh https://a.axs8.cn/install1/install_6.2.sh && bash install.sh
 
-LinuxÃæ°å7.6.0Éı¼¶×¨Òµ°æÃüÁî£º
+Linuxé¢æ¿7.6.0å‡çº§ä¸“ä¸šç‰ˆå‘½ä»¤ï¼š
 
 curl https://a.axs8.cn/install1/update6.sh|bash
 
-±¦ËşLinuxÃæ°å7.6.0ÆóÒµ°æÃüÁîÈçÏÂ
+å®å¡”Linuxé¢æ¿7.6.0ä¼ä¸šç‰ˆå‘½ä»¤å¦‚ä¸‹
 
-Centos°²×°ÃüÁî£º
+Centoså®‰è£…å‘½ä»¤ï¼š
 
 yum install -y wget && wget -O install.sh https://a.axs8.cn/ltd/install/install_6.0.sh && sh install.sh
 
-ÊÔÑéĞÔCentos/Ubuntu/Debian°²×°ÃüÁî ¶ÀÁ¢ÔËĞĞ»·¾³(py3.7) ¿ÉÄÜ´æÔÚÉÙÁ¿¼æÈİĞÔÎÊÌâ ²»¶ÏÓÅ»¯ÖĞ
+è¯•éªŒæ€§Centos/Ubuntu/Debianå®‰è£…å‘½ä»¤ ç‹¬ç«‹è¿è¡Œç¯å¢ƒ(py3.7) å¯èƒ½å­˜åœ¨å°‘é‡å…¼å®¹æ€§é—®é¢˜ ä¸æ–­ä¼˜åŒ–ä¸­
 
 curl -sSO https://a.axs8.cn/ltd/install/install_panel.sh && bash install_panel.sh
 
-Ubuntu Deepin°²×°ÃüÁî£º
+Ubuntu Deepinå®‰è£…å‘½ä»¤ï¼š
 
 wget -O install.sh https://a.axs8.cn/ltd/install/install-ubuntu_6.0.sh && sudo bash install.sh
 
-Debian°²×°ÃüÁî£º
+Debianå®‰è£…å‘½ä»¤ï¼š
 
 wget -O install.sh https://a.axs8.cn/ltd/install/install-ubuntu_6.1.sh && bash install.sh
 
-Fedora°²×°ÃüÁî:
+Fedoraå®‰è£…å‘½ä»¤:
 
 wget -O install.sh https://a.axs8.cn/ltd/install/install_6.2.sh && bash install.sh
 
-LinuxÃæ°å7.6.0Éı¼¶ÆóÒµ°æÃüÁî£º
+Linuxé¢æ¿7.6.0å‡çº§ä¼ä¸šç‰ˆå‘½ä»¤ï¼š
 
 curl https://a.axs8.cn/ltd/install/update6.sh|bash
 
-ÊµÊ±Í¬²½¹ÙÍø°æ±¾
+å®æ—¶åŒæ­¥å®˜ç½‘ç‰ˆæœ¬
+é¡¾é£ç¥æ‚¨ç”Ÿæ´»æ„‰å¿«ï¼æˆ‘è‡ªå·±æ°¸è¿œè”ç³»QQï¼š878317623
