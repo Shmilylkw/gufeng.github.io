@@ -2,7 +2,7 @@
 #
 # Description: Auto system info & I/O test & network to China script
 #
-# Copyright (C) 2017 - 2020 Oldking <oooldking@gmail.com>
+# Copyright (C) 2017 - 2021 Oldking <878317623@qq.com>
 #
 # Thanks: Bench.sh <i@teddysun.com>
 #
@@ -21,21 +21,24 @@ PLAIN='\033[0m'
 about() {
 	echo ""
 	echo " ========================================================= "
-	echo " \                 Superbench.sh  Script                 / "
-	echo " \       Basic system info, I/O test and speedtest       / "
-	echo " \                   v1.1.7 (7 Apr 2020)                 / "
-	echo " \                   Created by Oldking                  / "
-	echo " ========================================================= "
+	echo " \                 Superbench.sh  Script                  / "
+	echo " \       Basic system info, I/O test and speedtest        / "
+	echo " \                   v1.1.7 (7 Apr 2020)                  / "
+	echo " \                   Created by Oldking                   / "
+	echo " \                   一款可以测试服务器配置信息             / "
+	echo " \                   IO性能配置信息                        / "
+	echo " \                   国内节点的网速配置信息                 / "
+	echo " =========================================================  "
 	echo ""
 	echo " Intro:             https://www.m3sy.cn"
-	echo " ========================================================= "
+	echo " =========================================================  "
 	echo " Intro:            https://www.2585zy.cn"
-	echo " ========================================================= "
-	echo " \                   本脚本由顾风提供测试                / "
-	echo " ========================================================= "
-	echo " \                   顾风QQ:878317623                    / "
+	echo " =========================================================  "
+	echo " \                   本脚本由顾风提供测试                   / "
+	echo " =========================================================  "
+	echo " \                   顾风QQ:878317623                      / "
 	
-	echo " Copyright (C) 2012---2021 Oldking oooldking@gmail.com"
+	echo " Copyright (C) 2012---2021 Oldking 878317623@qq.com"
 	echo ""
 }
 
