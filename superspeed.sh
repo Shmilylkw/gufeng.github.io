@@ -50,12 +50,16 @@ fi
 
 
 clear
-echo "#############################################################"
-echo "# Description: Test your server's network with Speedtest    #"
-echo "# Intro:  https://www.2585zy.cn                             #"
-echo "# Author: 本脚本由顾风QQ:878317623提供使用                  #"
-echo "# Github: https://www.m3sy.cn                      #"
-echo "#############################################################"
+echo "######################################################################"
+echo "# Description: Test your server's network with Speedtest             #"
+echo "# Intro:  https://www.2585zy.cn                                      #"
+echo "# Author: 本脚本由顾风QQ:878317623提供使用                           #"
+echo "# Github: https://www.m3sy.cn                                        #" 
+echo "#关于测速，部分地区可能无法使用中国电信测速，建议使用4.本地默认测速  #"
+echo "#关于测速，部分地区可能无法使用中国联通测速，建议使用4.本地默认测速  #"
+echo "#关于测速，部分地区可能无法使用中国移动测速，建议使用4.本地默认测速  #"   
+echo "#关于测速，部分地区可能无法使用全面测速测速，建议使用4.本地默认测速  #"                 
+echo "######################################################################"
 echo
 echo "测试服务器到"
 echo -ne "1.中国电信 2.中国联通 3.中国移动 4.本地默认 5.全面测速"
