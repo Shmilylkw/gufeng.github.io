@@ -1,7 +1,8 @@
 #!/bin/bash
 # serverreview-benchmark by @sayem314
-# Github: https://github.com/sayem314/serverreview-benchmark
-
+# 官网地址: https://www.m3sy.cn
+# 官网地址: https://www.2585zy.cn
+# 顾风QQ: 878317623  我的好朋友小狐仙 QQ：3397926791
 # shellcheck disable=SC1117,SC2086,SC2003,SC1001,SC2116,SC2046,2128,2124
 
 about () {
@@ -11,10 +12,12 @@ about () {
 	echo "  \       Basic system info, I/O test and speedtest       / "
 	echo "  \               V 3.0.3  (13 Sep 2019)                  / "
 	echo "  \             Created by Sayem Chowdhury                / "
+	echo "  \   顾风QQ: 878317623  我的好朋友小狐仙 QQ：3397926791    / "
 	echo "  ========================================================= "
 	echo ""
-	echo "  This script is based on bench.sh by camarg from akamaras.com"
-	echo "  Later it was modified by dmmcintyre3 on FreeVPS.us"
+	echo "  \     我的官网地址      https://www.2585zy.cn            / "
+	echo "  \     我的另外一个官网地址  https://www.m3sy.cn           / "
+	echo "  \      小狐仙官网https://huxianbk.cn                     / "
 	echo "  Thanks to Hidden_Refuge for the update of this script"
 	echo ""
 }
